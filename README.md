@@ -20,9 +20,9 @@
 
 <br>
 
-- :space_invader: Skills: <strong>HTML | CSS | Sass | Bootstrap | JavaScript | Node.js | NPM MongoDB | MySQL.</strong>
-- :crystal_ball: Studying: <strong>Python</strong>.
-- :raising_hand_woman: I am currently looking for a job as Full Stack Developer.
+:space_invader: Skills: <strong>HTML | CSS | Sass | Bootstrap | JavaScript | Node.js | NPM MongoDB | MySQL.</strong> <br>
+:crystal_ball: Studying: <strong>Python</strong>. <br>
+:raising_hand_woman: I am currently looking for a job as Full Stack Developer. <br>
 
 <br>
 
@@ -30,6 +30,11 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSegg&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/LSegg/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSegg&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+<div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LSegg&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    
 </div>
