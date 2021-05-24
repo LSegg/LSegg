@@ -32,6 +32,8 @@
     :raising_hand_woman: I am currently looking for a job as Full Stack Developer.
     <br>
     <br>
+    <br>
+    <br>
 </p>
 
 <!-- Github Stats -->
