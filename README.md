@@ -23,13 +23,13 @@
     <img align="left" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"></img>
     <br>
     <br>
+    :raising_hand_woman: I am currently working as a Full Stack Developer.
+    <br>
+    <br>
     :space_invader: Skills: <strong>HTML | CSS | Sass | Bootstrap | JavaScript | Node.js | NPM | MongoDB | MySQL.</strong>
     <br>
     <br>
-        :raising_hand_woman: I am currently looking for a job as Full Stack Developer.
-    <br>
-    <br>
-    :crystal_ball: Studying: <strong>Python</strong>.
+    :crystal_ball: Studying: <strong>React | TypeScript | AWS Cloud | Python</strong>.
     <br>
     <br>
     <br>
