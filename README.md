@@ -26,10 +26,10 @@
     :raising_hand_woman: I am currently working as a Full Stack Developer.
     <br>
     <br>
-    :space_invader: Skills: <strong>HTML | CSS | Sass | Bootstrap | JavaScript | Node.js | NPM | MongoDB | MySQL.</strong>
+    :space_invader: Skills: <strong>HTML | CSS | Sass | Bootstrap | JavaScript | Node.js | NPM | MongoDB | MySQL | React | Redux | TypeScript</strong>.
     <br>
     <br>
-    :crystal_ball: Studying: <strong>React | TypeScript | AWS Cloud | Python</strong>.
+    :crystal_ball: Studying: <strong>AWS Cloud | Python | JEST</strong>.
     <br>
     <br>
     <br>
