@@ -29,7 +29,7 @@
     :space_invader: Skills: <strong>HTML | CSS | Sass | Bootstrap | JavaScript | Node.js | NPM | MongoDB | MySQL | React | Redux | TypeScript</strong>.
     <br>
     <br>
-    :crystal_ball: Studying: <strong>AWS Cloud | Python | JEST</strong>.
+    :crystal_ball: Studying: <strong>AWS Cloud | Python | JEST | Ruby</strong>.
     <br>
     <br>
     <br>
