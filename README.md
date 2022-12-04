@@ -10,11 +10,11 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/lucia-seggiaro/">
-    <img src="https://img.shields.io/badge/-Lucia%20Seggiaro-628FDB?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucia-seggiaro/" />
+    <img src="https://img.shields.io/badge/-Lucia%20Seggiaro-81b29a?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucia-seggiaro/" />
   </a>  
     
   <a href="https://github.com/LSegg">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LSegg?color=628FDB&labelColor=628FDB&style=for-the-badge&logo=github&label=Follow"/></a>  
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LSegg?color=81b29a&labelColor=81b29a&style=for-the-badge&logo=github&label=Follow"/></a>  
 </p>
 
 <!-- Currently -->
@@ -23,13 +23,10 @@
     <img align="left" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"></img>
     <br>
     <br>
-    :raising_hand_woman: I am currently working as a Full Stack Developer.
+    :raising_hand_woman: I am currently working as a Full Stack Engineer.
     <br>
     <br>
-    :space_invader: Skills: <strong>HTML | CSS | Sass | Bootstrap | JavaScript | Node.js | NPM | MongoDB | MySQL | React | Redux | TypeScript</strong>.
-    <br>
-    <br>
-    :crystal_ball: Studying: <strong>AWS Cloud | JEST | Prisma</strong>.
+    :space_invader: Skills: <strong>HTML | CSS | Sass | Bootstrap | JavaScript | Node.js | NPM | MongoDB | MySQL | React | Redux | TypeScript | JEST | Prisma</strong>.
     <br>
     <br>
     <br>
