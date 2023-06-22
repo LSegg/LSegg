@@ -23,10 +23,14 @@
     <img align="left" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"></img>
     <br>
     <br>
-    :raising_hand_woman: I am currently working as a Full Stack Engineer.
+    🙋‍♀️ I am currently working as a Full Stack Engineer.
     <br>
     <br>
-    :space_invader: Skills: <strong>HTML | CSS | Sass | Bootstrap | JavaScript | Node.js | NPM | MongoDB | MySQL | React | Redux | TypeScript | JEST | Prisma</strong>.
+    👾 <strong>Languages and general tools:</strong> JavaScript | TypeScript | NPM | JEST.
+    <br>
+    👾 <strong>Backend-related tools:</strong> Node.js | AWS (Lambda, CloudWatch, API Gateway, AWS Step Functions) | Express | PostgreSQL | MySQL | MongoDB | Prisma.
+    <br>
+    👾 <strong>Frontend-related tools:</strong> React | Redux | HTML | CSS | Sass | Bootstrap.
     <br>
     <br>
     <br>
