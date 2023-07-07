@@ -14,7 +14,7 @@
   </a>  
     
   <a href="https://github.com/LSegg">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/LSegg?color=81b29a&labelColor=81b29a&style=for-the-badge&logo=github&label=Follow"/></a>  
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/lsegg?color=81b29a&labelColor=81b29a&style=for-the-badge&logo=github&label=Follow"/></a>  
 </p>
 
 <!-- Currently -->
