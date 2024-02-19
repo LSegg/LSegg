@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Lucia%20Seggiaro-81b29a?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucia-seggiaro/" />
   </a>  
     
-  <a href="https://github.com/LSegg">
+  <a href="https://github.com/lsegg">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/lsegg?color=81b29a&labelColor=81b29a&style=for-the-badge&logo=github&label=Follow"/></a>  
 </p>
 
